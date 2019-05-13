@@ -1,0 +1,4233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="297mm"
+   version="1.1"
+   viewBox="-450 -500 1984.252 2806.2991"
+   width="210mm"
+   id="svg240"
+   sodipodi:docname="bolt_layouts.svg"
+   inkscape:export-filename="/home/ajmalbabums/1_Beam_Column_End_Plate_Moment/test.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (5aff6ba, 2018-11-25)">
+  <metadata
+     id="metadata244">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     id="namedview242"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="299.00255"
+     inkscape:cy="383.59692"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg240"
+     units="mm"
+     scale-x="2.5"
+     showguides="false"
+     inkscape:lockguides="false"
+     inkscape:document-units="mm"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true" />
+  <defs
+     id="defs68">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch"
+       id="pattern136"
+       patternTransform="matrix(0.7091086,0.64198191,-0.7091086,0.64198191,166.7706,-249.50206)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch"
+       id="pattern134"
+       patternTransform="matrix(0.70908618,0.64242412,-0.70908618,0.64242412,166.72839,-249.62326)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1"
+       id="pattern132"
+       patternTransform="rotate(45,419.94837,63.639433)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1"
+       id="pattern130"
+       patternTransform="matrix(0.53125538,0.70710678,-0.53125538,0.70710678,207.29317,-278.30878)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1"
+       id="pattern128"
+       patternTransform="matrix(0.52839099,0.71374899,-0.52839099,0.71374899,172.48354,-282.8818)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1"
+       id="pattern126"
+       patternTransform="matrix(0.52566781,0.70710678,-0.52566781,0.70710678,208.54169,-278.30878)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1"
+       id="pattern124"
+       patternTransform="matrix(0.52507135,0.71388291,-0.52507135,0.71388291,172.56671,-279.58167)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1"
+       id="pattern122"
+       patternTransform="rotate(45,419.94837,63.639433)" />
+    <pattern
+       height="6"
+       id="diagonalHatch"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5" />
+    </pattern>
+    <marker
+       id="id59"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path8"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id60"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path11"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id61"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path14"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id62"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path17"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id63"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path20"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id64"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path23"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id65"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path26"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id66"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path29"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id67"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path32"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id68"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path35"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id69"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path38"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id70"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path41"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id71"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path44"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id72"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path47"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id73"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path50"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id74"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path53"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id75"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path56"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id76"
+       markerHeight="15"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="7.5">
+      <path
+         d="M 0,7.5 8,0 v 15 z"
+         id="path59"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </marker>
+    <marker
+       id="id77"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path62"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </marker>
+    <marker
+       id="id78"
+       markerHeight="15"
+       markerWidth="15"
+       orient="auto"
+       refX="15"
+       refY="7.5">
+      <path
+         d="M 0,7.5 8,0 v 15 z"
+         id="path65"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </marker>
+    <marker
+       id="id64-3"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path23-5" />
+    </marker>
+    <marker
+       id="id63-6"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path20-2" />
+    </marker>
+    <marker
+       id="id64-7"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path23-0" />
+    </marker>
+    <marker
+       id="id63-9"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path20-3" />
+    </marker>
+    <pattern
+       patternTransform="matrix(0.70905804,0.64218875,-0.70905804,0.64218875,-350.4325,-246.64021)"
+       id="pattern228"
+       xlink:href="#diagonalHatch-2"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(0.70898013,0.64225238,-0.70898013,0.64225238,-350.37942,-246.56889)"
+       id="pattern226"
+       xlink:href="#diagonalHatch-2"
+       inkscape:collect="always" />
+    <marker
+       id="id70-7"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path41-0" />
+    </marker>
+    <marker
+       id="id69-9"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path38-36" />
+    </marker>
+    <marker
+       id="id70-6"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path41-7" />
+    </marker>
+    <marker
+       id="id69-5"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path38-3" />
+    </marker>
+    <marker
+       id="id70-3"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path41-6" />
+    </marker>
+    <marker
+       id="id69-7"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path38-5" />
+    </marker>
+    <marker
+       id="id68-3"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path35-5" />
+    </marker>
+    <marker
+       id="id67-6"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path32-2" />
+    </marker>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9"
+       id="pattern262"
+       patternTransform="matrix(0.7076851,0.55399177,-0.7076851,0.55399177,-349.23661,-164.96625)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-9"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9"
+       id="pattern252"
+       patternTransform="matrix(0.5299891,0.61103429,-0.5299891,0.61103429,-344.75356,-258.30752)" />
+    <pattern
+       height="6"
+       id="pattern151"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path149" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9"
+       id="pattern264"
+       patternTransform="matrix(0.52946633,0.5539918,-0.52946633,0.5539918,-309.41438,-168.31633)" />
+    <pattern
+       height="6"
+       id="pattern156"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path154" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9"
+       id="pattern266"
+       patternTransform="matrix(0.52877515,0.5598524,-0.52877515,0.5598524,-344.74032,-172.35123)" />
+    <pattern
+       height="6"
+       id="pattern161"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path159" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9"
+       id="pattern254"
+       patternTransform="matrix(0.53337961,0.6049527,-0.53337961,0.6049527,-310.30864,-257.16511)" />
+    <pattern
+       height="6"
+       id="pattern166"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path164" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9"
+       id="pattern246"
+       patternTransform="matrix(0.70789478,0.50312219,-0.70789478,0.50312219,-349.2627,-243.54479)" />
+    <pattern
+       height="6"
+       id="pattern171"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path169" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-2"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-7" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern177"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path175" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath343">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g339"
+         id="use345"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath343-8">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g339-2"
+         id="use345-5"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <marker
+       id="id64-1"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,3 8,6 5,3 8,0 0,3"
+         id="path23-3" />
+    </marker>
+    <marker
+       id="id63-7"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 0,0 3,3 0,6 8,3 0,0"
+         id="path20-7" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath343-8-8">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g339-2-9"
+         id="use345-5-7"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4"
+       id="pattern122-0"
+       patternTransform="rotate(45,647.56305,699.91373)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-4"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-8" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4"
+       id="pattern124-0"
+       patternTransform="matrix(0.52772706,0.71377572,-0.52772706,0.71377572,689.08084,-254.14898)" />
+    <pattern
+       height="6"
+       id="pattern1523"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1521" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4"
+       id="pattern126-4"
+       patternTransform="matrix(0.52790829,0.70710678,-0.52790829,0.70710678,724.62174,-252.89624)" />
+    <pattern
+       height="6"
+       id="pattern1528"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1526" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4"
+       id="pattern128-2"
+       patternTransform="matrix(0.52573528,0.71385604,-0.52573528,0.71385604,689.13076,-257.54297)" />
+    <pattern
+       height="6"
+       id="pattern1533"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1531" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4"
+       id="pattern130-9"
+       patternTransform="matrix(0.52738031,0.70710678,-0.52738031,0.70710678,724.73971,-252.89624)" />
+    <pattern
+       height="6"
+       id="pattern1538"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1536" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4"
+       id="pattern132-6"
+       patternTransform="rotate(45,647.56305,699.91373)" />
+    <pattern
+       height="6"
+       id="pattern1543"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1541" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-0"
+       id="pattern134-1"
+       patternTransform="matrix(0.70909467,0.64136535,-0.70909467,0.64136535,683.30789,-223.97186)" />
+    <pattern
+       height="6"
+       id="diagonalHatch-0"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-0"
+       id="pattern136-2"
+       patternTransform="matrix(0.70903669,0.6421265,-0.70903669,0.6421265,683.35949,-224.00331)" />
+    <pattern
+       height="6"
+       id="pattern1551"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1549" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-7"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-43" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1802"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1800" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1-42"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-2" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1810"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1808" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1815"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1813" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1820"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1818" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1825"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1823" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1830"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1828" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-2-9"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-7-2" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1838"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1836" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1-9-8"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-1-6" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1846"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1844" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1851"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1849" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1856"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1854" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1861"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1859" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1866"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1864" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-0-8"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-4-0" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1874"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1872" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1-4-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-8-8" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1882"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1880" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1887"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1885" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1892"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1890" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1897"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1895" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1902"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1900" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-77"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-40" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1802-4"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1800-7" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1-8"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-5" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1810-2"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1808-6" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1815-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1813-6" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1820-2"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1818-8" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1825-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1823-0" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1830-0"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1828-1" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-2-1"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-7-3" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1838-7"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1836-2" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1-9-4"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-1-5" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1846-0"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1844-2" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1851-0"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1849-9" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1856-4"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1854-5" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1861-0"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1859-3" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1866-8"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1864-8" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch-0-0"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-4-4" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1874-7"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1872-6" />
+    </pattern>
+    <pattern
+       height="6"
+       id="diagonalHatch1-4-9"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-8-7" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1882-9"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1880-7" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1887-5"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1885-3" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1892-8"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1890-3" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1897-9"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1895-3" />
+    </pattern>
+    <pattern
+       height="6"
+       id="pattern1902-7"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1900-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-6"
+       id="pattern136-3"
+       patternTransform="matrix(0.7091086,0.64198191,-0.7091086,0.64198191,166.7706,-249.50206)" />
+    <pattern
+       height="6"
+       id="diagonalHatch-6"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-75" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-6"
+       id="pattern134-3"
+       patternTransform="matrix(0.70908618,0.64242412,-0.70908618,0.64242412,166.72839,-249.62326)" />
+    <pattern
+       height="6"
+       id="pattern1680"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1678" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-6"
+       id="pattern132-5"
+       patternTransform="rotate(45,419.94837,63.639433)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-29" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-6"
+       id="pattern130-1"
+       patternTransform="matrix(0.53125538,0.70710678,-0.53125538,0.70710678,207.29317,-278.30878)" />
+    <pattern
+       height="6"
+       id="pattern1688"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1686" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-6"
+       id="pattern128-27"
+       patternTransform="matrix(0.52839099,0.71374899,-0.52839099,0.71374899,172.48354,-282.8818)" />
+    <pattern
+       height="6"
+       id="pattern1693"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1691" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-6"
+       id="pattern126-0"
+       patternTransform="matrix(0.52566781,0.70710678,-0.52566781,0.70710678,208.54169,-278.30878)" />
+    <pattern
+       height="6"
+       id="pattern1698"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1696" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-6"
+       id="pattern124-9"
+       patternTransform="matrix(0.52507135,0.71388291,-0.52507135,0.71388291,172.56671,-279.58167)" />
+    <pattern
+       height="6"
+       id="pattern1703"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1701" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-6"
+       id="pattern122-3"
+       patternTransform="rotate(45,419.94837,63.639433)" />
+    <pattern
+       height="6"
+       id="pattern1708"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1706" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.70898013,0.64225238,-0.70898013,0.64225238,-350.37942,-246.56889)"
+       id="pattern226-6"
+       xlink:href="#diagonalHatch-2-0"
+       inkscape:collect="always" />
+    <pattern
+       height="6"
+       id="diagonalHatch-2-0"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-7-6" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.70905804,0.64218875,-0.70905804,0.64218875,-350.4325,-246.64021)"
+       id="pattern228-2"
+       xlink:href="#diagonalHatch-2-0"
+       inkscape:collect="always" />
+    <pattern
+       height="6"
+       id="pattern1716"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1714" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-1"
+       id="pattern246-6"
+       patternTransform="matrix(0.70789478,0.50312219,-0.70789478,0.50312219,-349.2627,-243.54479)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-9-1"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-1-8" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-1"
+       id="pattern254-7"
+       patternTransform="matrix(0.53337961,0.6049527,-0.53337961,0.6049527,-310.30864,-257.16511)" />
+    <pattern
+       height="6"
+       id="pattern1724"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1722" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-1"
+       id="pattern266-9"
+       patternTransform="matrix(0.52877515,0.5598524,-0.52877515,0.5598524,-344.74032,-172.35123)" />
+    <pattern
+       height="6"
+       id="pattern1729"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1727" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-1"
+       id="pattern264-2"
+       patternTransform="matrix(0.52946633,0.5539918,-0.52946633,0.5539918,-309.41438,-168.31633)" />
+    <pattern
+       height="6"
+       id="pattern1734"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1732" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-1"
+       id="pattern252-0"
+       patternTransform="matrix(0.5299891,0.61103429,-0.5299891,0.61103429,-344.75356,-258.30752)" />
+    <pattern
+       height="6"
+       id="pattern1739"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1737" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-1"
+       id="pattern262-2"
+       patternTransform="matrix(0.7076851,0.55399177,-0.7076851,0.55399177,-349.23661,-164.96625)" />
+    <pattern
+       height="6"
+       id="pattern1744"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1742" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-0-7"
+       id="pattern136-2-3"
+       patternTransform="matrix(0.70903669,0.6421265,-0.70903669,0.6421265,683.35949,-224.00331)" />
+    <pattern
+       height="6"
+       id="diagonalHatch-0-7"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-4-5" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-0-7"
+       id="pattern134-1-9"
+       patternTransform="matrix(0.70909467,0.64136535,-0.70909467,0.64136535,683.30789,-223.97186)" />
+    <pattern
+       height="6"
+       id="pattern1752"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1750" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-2"
+       id="pattern132-6-2"
+       patternTransform="rotate(45,647.56305,699.91373)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-4-2"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-8-89" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-2"
+       id="pattern130-9-7"
+       patternTransform="matrix(0.52738031,0.70710678,-0.52738031,0.70710678,724.73971,-252.89624)" />
+    <pattern
+       height="6"
+       id="pattern1760"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1758" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-2"
+       id="pattern128-2-3"
+       patternTransform="matrix(0.52573528,0.71385604,-0.52573528,0.71385604,689.13076,-257.54297)" />
+    <pattern
+       height="6"
+       id="pattern1765"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1763" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-2"
+       id="pattern126-4-6"
+       patternTransform="matrix(0.52790829,0.70710678,-0.52790829,0.70710678,724.62174,-252.89624)" />
+    <pattern
+       height="6"
+       id="pattern1770"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1768" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-2"
+       id="pattern124-0-1"
+       patternTransform="matrix(0.52772706,0.71377572,-0.52772706,0.71377572,689.08084,-254.14898)" />
+    <pattern
+       height="6"
+       id="pattern1775"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1773" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-2"
+       id="pattern122-0-2"
+       patternTransform="rotate(45,647.56305,699.91373)" />
+    <pattern
+       height="6"
+       id="pattern1780"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1778" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-3"
+       id="pattern136-6"
+       patternTransform="matrix(0.7091086,0.64198191,-0.7091086,0.64198191,166.7706,-249.50206)" />
+    <pattern
+       height="6"
+       id="diagonalHatch-3"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-3"
+       id="pattern134-4"
+       patternTransform="matrix(0.70908618,0.64242412,-0.70908618,0.64242412,166.72839,-249.62326)" />
+    <pattern
+       height="6"
+       id="pattern1680-8"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1678-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-93"
+       id="pattern132-2"
+       patternTransform="rotate(45,419.94837,63.639433)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-93"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-93"
+       id="pattern130-0"
+       patternTransform="matrix(0.53125538,0.70710678,-0.53125538,0.70710678,207.29317,-278.30878)" />
+    <pattern
+       height="6"
+       id="pattern1688-8"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1686-8" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-93"
+       id="pattern128-5"
+       patternTransform="matrix(0.52839099,0.71374899,-0.52839099,0.71374899,172.48354,-282.8818)" />
+    <pattern
+       height="6"
+       id="pattern1693-0"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1691-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-93"
+       id="pattern126-6"
+       patternTransform="matrix(0.52566781,0.70710678,-0.52566781,0.70710678,208.54169,-278.30878)" />
+    <pattern
+       height="6"
+       id="pattern1698-3"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1696-8" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-93"
+       id="pattern124-5"
+       patternTransform="matrix(0.52507135,0.71388291,-0.52507135,0.71388291,172.56671,-279.58167)" />
+    <pattern
+       height="6"
+       id="pattern1703-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1701-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-93"
+       id="pattern122-1"
+       patternTransform="rotate(45,419.94837,63.639433)" />
+    <pattern
+       height="6"
+       id="pattern1708-5"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1706-9" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.70898013,0.64225238,-0.70898013,0.64225238,-350.37942,-246.56889)"
+       id="pattern226-8"
+       xlink:href="#diagonalHatch-2-4"
+       inkscape:collect="always" />
+    <pattern
+       height="6"
+       id="diagonalHatch-2-4"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-7-8" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.70905804,0.64218875,-0.70905804,0.64218875,-350.4325,-246.64021)"
+       id="pattern228-1"
+       xlink:href="#diagonalHatch-2-4"
+       inkscape:collect="always" />
+    <pattern
+       height="6"
+       id="pattern1716-0"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1714-3" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-44"
+       id="pattern246-0"
+       patternTransform="matrix(0.70789478,0.50312219,-0.70789478,0.50312219,-349.2627,-243.54479)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-9-44"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-1-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-44"
+       id="pattern254-4"
+       patternTransform="matrix(0.53337961,0.6049527,-0.53337961,0.6049527,-310.30864,-257.16511)" />
+    <pattern
+       height="6"
+       id="pattern1724-7"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1722-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-44"
+       id="pattern266-3"
+       patternTransform="matrix(0.52877515,0.5598524,-0.52877515,0.5598524,-344.74032,-172.35123)" />
+    <pattern
+       height="6"
+       id="pattern1729-1"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1727-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-44"
+       id="pattern264-5"
+       patternTransform="matrix(0.52946633,0.5539918,-0.52946633,0.5539918,-309.41438,-168.31633)" />
+    <pattern
+       height="6"
+       id="pattern1734-9"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1732-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-44"
+       id="pattern252-2"
+       patternTransform="matrix(0.5299891,0.61103429,-0.5299891,0.61103429,-344.75356,-258.30752)" />
+    <pattern
+       height="6"
+       id="pattern1739-1"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1737-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-9-44"
+       id="pattern262-8"
+       patternTransform="matrix(0.7076851,0.55399177,-0.7076851,0.55399177,-349.23661,-164.96625)" />
+    <pattern
+       height="6"
+       id="pattern1744-5"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1742-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-0-1"
+       id="pattern136-2-4"
+       patternTransform="matrix(0.70903669,0.6421265,-0.70903669,0.6421265,683.35949,-224.00331)" />
+    <pattern
+       height="6"
+       id="diagonalHatch-0-1"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path2-4-8" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch-0-1"
+       id="pattern134-1-5"
+       patternTransform="matrix(0.70909467,0.64136535,-0.70909467,0.64136535,683.30789,-223.97186)" />
+    <pattern
+       height="6"
+       id="pattern1752-9"
+       patternTransform="rotate(45 1 1)"
+       patternUnits="userSpaceOnUse"
+       width="2">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1750-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-3"
+       id="pattern132-6-5"
+       patternTransform="rotate(45,647.56305,699.91373)" />
+    <pattern
+       height="6"
+       id="diagonalHatch1-4-3"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path5-8-88" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-3"
+       id="pattern130-9-3"
+       patternTransform="matrix(0.52738031,0.70710678,-0.52738031,0.70710678,724.73971,-252.89624)" />
+    <pattern
+       height="6"
+       id="pattern1760-1"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1758-8" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-3"
+       id="pattern128-2-9"
+       patternTransform="matrix(0.52573528,0.71385604,-0.52573528,0.71385604,689.13076,-257.54297)" />
+    <pattern
+       height="6"
+       id="pattern1765-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1763-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-3"
+       id="pattern126-4-3"
+       patternTransform="matrix(0.52790829,0.70710678,-0.52790829,0.70710678,724.62174,-252.89624)" />
+    <pattern
+       height="6"
+       id="pattern1770-3"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1768-3" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-3"
+       id="pattern124-0-8"
+       patternTransform="matrix(0.52772706,0.71377572,-0.52772706,0.71377572,689.08084,-254.14898)" />
+    <pattern
+       height="6"
+       id="pattern1775-6"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1773-0" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#diagonalHatch1-4-3"
+       id="pattern122-0-4"
+       patternTransform="rotate(45,647.56305,699.91373)" />
+    <pattern
+       height="6"
+       id="pattern1780-8"
+       patternTransform="rotate(45 2 2)"
+       patternUnits="userSpaceOnUse"
+       width="6">
+      <path
+         d="M 0,1 l 6,0"
+         stroke="#000000"
+         stroke-width="2.5"
+         id="path1778-8" />
+    </pattern>
+  </defs>
+  <text
+     font-size="28"
+     x="-402.86752"
+     y="-294.48032"
+     id="text216"
+     style="font-size:28px;font-family:sans-serif;fill:#000000" />
+  <text
+     font-size="28"
+     x="-195.68996"
+     y="-182.48032"
+     id="text220"
+     style="font-size:28px;font-family:sans-serif;fill:#000000" />
+  <text
+     font-size="28"
+     x="-250.06752"
+     y="30.519686"
+     id="text228"
+     style="font-size:28px;font-family:sans-serif;fill:#000000" />
+  <text
+     font-size="28"
+     x="-315.26752"
+     y="-185.48032"
+     id="text234"
+     style="font-size:28px;font-family:sans-serif;fill:#000000" />
+  <g
+     id="g341"
+     clip-path="url(#clipPath343)"
+     transform="matrix(0.88998104,0,0,0.88154002,255.82163,-1047.3098)">
+    <g
+       inkscape:label="Clip"
+       id="g339">
+      <text
+         transform="scale(0.99597289,1.0040434)"
+         id="text135-1"
+         y="686.84814"
+         x="-281.96762"
+         style="font-style:normal;font-weight:normal;font-size:45.15944672px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84334648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan334"
+           style="font-weight:bold;font-size:52.6860199px;text-align:center;text-anchor:middle;stroke-width:0.84334648px"
+           y="686.84814"
+           x="-281.96762"
+           sodipodi:role="line">Flush End Plate</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g341-8"
+     clip-path="url(#clipPath343-8)"
+     transform="matrix(0.88998104,0,0,0.88154002,616.9495,-1011.3901)">
+    <g
+       inkscape:label="Clip"
+       id="g339-2">
+      <text
+         transform="scale(0.99597289,1.0040434)"
+         id="text135-1-6"
+         y="641.82556"
+         x="-89.851624"
+         style="font-style:normal;font-weight:normal;font-size:45.15944672px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84334648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan334-6"
+           style="font-weight:bold;text-align:center;text-anchor:middle;stroke-width:0.84334648px"
+           y="641.82556"
+           x="-89.851631"
+           sodipodi:role="line">Extended one-way</tspan><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle;stroke-width:0.84334648px"
+           y="698.27484"
+           x="-89.851624"
+           sodipodi:role="line"
+           id="tspan8264">End Plate</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g341-8-2"
+     clip-path="url(#clipPath343-8-8)"
+     transform="matrix(0.88998104,0,0,0.88154002,1151.744,-1105.6953)">
+    <g
+       inkscape:label="Clip"
+       id="g339-2-9">
+      <text
+         transform="scale(0.99597289,1.0040434)"
+         id="text135-1-6-4"
+         y="641.82556"
+         x="-91.119942"
+         style="font-style:normal;font-weight:normal;font-size:45.15944672px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84334648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.84334648px"
+           y="681.78107"
+           x="-91.119942"
+           id="tspan133-9-0-3"
+           sodipodi:role="line" /><tspan
+           id="tspan334-6-5"
+           style="font-weight:bold;text-align:center;text-anchor:middle;stroke-width:0.84334648px"
+           y="738.23041"
+           x="-91.119949"
+           sodipodi:role="line">Extended Both-way</tspan><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle;stroke-width:0.84334648px"
+           y="794.67969"
+           x="-91.119942"
+           sodipodi:role="line"
+           id="tspan8266">End Plate</tspan></text>
+    </g>
+  </g>
+  <rect
+     id="rect2843-3"
+     width="17.48321"
+     height="17.703125"
+     x="-441.77103"
+     y="-483.31989"
+     style="stroke-width:14.07453442" />
+  <g
+     transform="translate(-194.44744,64.386328)"
+     id="g2950-5" />
+  <g
+     id="g1664">
+    <g
+       transform="translate(39.815953,51.872389)"
+       id="g3253">
+      <g
+         transform="translate(242.5,-30)"
+         id="g3324">
+        <polyline
+           style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5"
+           transform="translate(166,-277.48031)"
+           id="polyline70"
+           points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109" />
+        <polyline
+           style="fill:none;stroke:#0000ff;stroke-width:2.5"
+           transform="matrix(0.87947868,0,0,0.85617859,177.33816,-277.6082)"
+           id="polyline72"
+           points="0,0 180,0 180,618 0,618 0,0" />
+        <rect
+           style="fill:url(#pattern136);stroke:#ffffff;stroke-width:0.95418543"
+           id="rect74"
+           y="-135.63852"
+           x="243.98868"
+           width="8.0226479"
+           height="334.10703" />
+        <rect
+           style="fill:url(#pattern134);stroke:#ffffff;stroke-width:0.95449889"
+           id="rect76"
+           y="-135.68129"
+           x="259.9888"
+           width="8.0223942"
+           height="334.33716" />
+        <rect
+           style="fill:url(#pattern132);stroke:#ffffff;stroke-width:1"
+           id="rect78"
+           y="-182.48032"
+           x="186"
+           width="140"
+           height="14" />
+        <rect
+           style="fill:url(#pattern130);stroke:#ffffff;stroke-width:0.86678058"
+           id="rect80"
+           y="-152.48032"
+           x="276.41364"
+           width="49.586365"
+           height="14" />
+        <rect
+           style="fill:url(#pattern128);stroke:#ffffff;stroke-width:0.86849123"
+           id="rect82"
+           y="201.45393"
+           x="185.93425"
+           width="49.319008"
+           height="14.131509" />
+        <rect
+           style="fill:url(#pattern126);stroke:#ffffff;stroke-width:0.86221027"
+           id="rect84"
+           y="201.51968"
+           x="276.93518"
+           width="49.064831"
+           height="14" />
+        <rect
+           style="fill:url(#pattern124);stroke:#ffffff;stroke-width:0.86584002"
+           id="rect86"
+           y="-152.54739"
+           x="185.93292"
+           width="49.009159"
+           height="14.13416" />
+        <rect
+           style="fill:url(#pattern122);stroke:#ffffff;stroke-width:1"
+           id="rect88"
+           y="231.51968"
+           x="186"
+           width="140"
+           height="14" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle90"
+           r="12"
+           cy="-232.48032"
+           cx="211" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line92"
+           y2="-232.48032"
+           y1="-232.48032"
+           x2="227"
+           x1="195" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line94"
+           y2="-216.48032"
+           y1="-248.48032"
+           x2="211"
+           x1="211" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle96"
+           r="12"
+           cy="-232.48032"
+           cx="301" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line98"
+           y2="-232.48032"
+           y1="-232.48032"
+           x2="317"
+           x1="285" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line100"
+           y2="-216.48032"
+           y1="-248.48032"
+           x2="301"
+           x1="301" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle102"
+           r="12"
+           cy="-88.480316"
+           cx="211" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line104"
+           y2="-88.480316"
+           y1="-88.480316"
+           x2="227"
+           x1="195" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line106"
+           y2="-72.480316"
+           y1="-104.48032"
+           x2="211"
+           x1="211" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle108"
+           r="12"
+           cy="-88.480316"
+           cx="301" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line110"
+           y2="-88.480316"
+           y1="-88.480316"
+           x2="317"
+           x1="285" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line112"
+           y2="-72.480316"
+           y1="-104.48032"
+           x2="301"
+           x1="301" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle126"
+           r="12"
+           cy="151.51968"
+           cx="211" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line128"
+           y2="151.51968"
+           y1="151.51968"
+           x2="227"
+           x1="195" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line130"
+           y2="167.51968"
+           y1="135.51968"
+           x2="211"
+           x1="211" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle132"
+           r="12"
+           cy="151.51968"
+           cx="301" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line134"
+           y2="151.51968"
+           y1="151.51968"
+           x2="317"
+           x1="285" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line136"
+           y2="167.51968"
+           y1="135.51968"
+           x2="301"
+           x1="301" />
+      </g>
+    </g>
+    <g
+       transform="translate(267.71616,22.24292)"
+       id="g3277">
+      <polyline
+         transform="translate(-351.16463,-274.47743)"
+         style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5"
+         points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109"
+         id="polyline70-0" />
+      <polyline
+         points="0,0 180,0 180,618 0,618 0,0"
+         id="polyline72-9"
+         transform="matrix(0.83855948,0,0,0.70166122,-336.63697,-182.24151)"
+         style="fill:none;stroke:#0000ff;stroke-width:2.5" />
+      <rect
+         style="fill:url(#pattern226);stroke:#ffffff;stroke-width:0.95429993"
+         height="334.2478"
+         width="8.0211945"
+         x="-273.17523"
+         y="-132.65742"
+         id="rect74-3" />
+      <rect
+         style="fill:url(#pattern228);stroke:#ffffff;stroke-width:0.95430511"
+         height="334.21469"
+         width="8.0220757"
+         x="-257.17569"
+         y="-132.74005"
+         id="rect76-6" />
+      <rect
+         height="9.9613113"
+         width="140.15601"
+         x="-331.24265"
+         y="-175.36073"
+         id="rect78-0"
+         style="fill:url(#pattern246);stroke:#ffffff;stroke-width:0.84398764" />
+      <rect
+         height="11.977452"
+         width="49.784637"
+         x="-240.91188"
+         y="-149.51485"
+         id="rect80-6"
+         style="fill:url(#pattern254);stroke:#ffffff;stroke-width:0.80332983" />
+      <rect
+         height="11.084512"
+         width="49.354862"
+         x="-331.27991"
+         y="207.55333"
+         id="rect82-2"
+         style="fill:url(#pattern266);stroke:#ffffff;stroke-width:0.76946223" />
+      <rect
+         height="10.968478"
+         width="49.419376"
+         x="-240.52678"
+         y="207.61136"
+         id="rect84-6"
+         style="fill:url(#pattern264);stroke:#ffffff;stroke-width:0.76592427" />
+      <rect
+         height="12.097861"
+         width="49.468174"
+         x="-331.26227"
+         y="-149.57506"
+         id="rect86-1"
+         style="fill:url(#pattern252);stroke:#ffffff;stroke-width:0.80478758" />
+      <rect
+         height="10.968478"
+         width="140.1145"
+         x="-331.22189"
+         y="234.4653"
+         id="rect88-8"
+         style="fill:url(#pattern262);stroke:#ffffff;stroke-width:0.88549614" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-306.16464"
+         cy="-85.477432"
+         r="12"
+         id="circle102-7" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-322.16464"
+         x2="-290.16464"
+         y1="-85.477432"
+         y2="-85.477432"
+         id="line104-9" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-306.16464"
+         x2="-306.16464"
+         y1="-101.47743"
+         y2="-69.477432"
+         id="line106-2" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-216.16464"
+         cy="-85.477432"
+         r="12"
+         id="circle108-0" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-232.16464"
+         x2="-200.16464"
+         y1="-85.477432"
+         y2="-85.477432"
+         id="line110-2" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-216.16464"
+         x2="-216.16464"
+         y1="-101.47743"
+         y2="-69.477432"
+         id="line112-3" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-306.16464"
+         cy="154.52255"
+         r="12"
+         id="circle126-7" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-322.16464"
+         x2="-290.16464"
+         y1="154.52255"
+         y2="154.52255"
+         id="line128-5" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-306.16464"
+         x2="-306.16464"
+         y1="138.52255"
+         y2="170.52255"
+         id="line130-9" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-216.16464"
+         cy="154.52255"
+         r="12"
+         id="circle132-2" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-232.16464"
+         x2="-200.16464"
+         y1="154.52255"
+         y2="154.52255"
+         id="line134-2" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-216.16464"
+         x2="-216.16464"
+         y1="138.52255"
+         y2="170.52255"
+         id="line136-8" />
+    </g>
+    <g
+       transform="translate(299.37386,-92.75709)"
+       id="g3221">
+      <polyline
+         points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109"
+         id="polyline70-2"
+         transform="translate(682.58068,-252.06777)"
+         style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5" />
+      <polyline
+         points="0,0 180,0 180,618 0,618 0,0"
+         id="polyline72-2"
+         transform="matrix(0.87851148,0,0,1.0002248,694.00589,-252.10975)"
+         style="fill:none;stroke:#0000ff;stroke-width:2.5" />
+      <rect
+         height="334.18225"
+         width="8.0218344"
+         x="760.56976"
+         y="-110.11414"
+         id="rect74-0"
+         style="fill:url(#pattern136-2);stroke:#ffffff;stroke-width:0.95424443" />
+      <rect
+         height="333.78616"
+         width="8.0224905"
+         x="776.56946"
+         y="-110.21769"
+         id="rect76-5"
+         style="fill:url(#pattern134-1);stroke:#ffffff;stroke-width:0.95371771" />
+      <rect
+         height="14"
+         width="140"
+         x="702.58069"
+         y="-157.06778"
+         id="rect78-5"
+         style="fill:url(#pattern132-6);stroke:#ffffff;stroke-width:1" />
+      <rect
+         height="14"
+         width="49.224674"
+         x="793.35602"
+         y="-127.06778"
+         id="rect80-2"
+         style="fill:url(#pattern130-9);stroke:#ffffff;stroke-width:0.86361355" />
+      <rect
+         height="14.133629"
+         width="49.071129"
+         x="702.51385"
+         y="226.86539"
+         id="rect82-9"
+         style="fill:url(#pattern128-2);stroke:#ffffff;stroke-width:0.86637098" />
+      <rect
+         height="14"
+         width="49.273956"
+         x="793.30676"
+         y="226.93221"
+         id="rect84-0"
+         style="fill:url(#pattern126-4);stroke:#ffffff;stroke-width:0.86404574" />
+      <rect
+         height="14.132038"
+         width="49.257038"
+         x="702.51465"
+         y="-127.1338"
+         id="rect86-2"
+         style="fill:url(#pattern124-0);stroke:#ffffff;stroke-width:0.8679617" />
+      <rect
+         height="14"
+         width="140"
+         x="702.58069"
+         y="256.93222"
+         id="rect88-83"
+         style="fill:url(#pattern122-0);stroke:#ffffff;stroke-width:1" />
+      <circle
+         cx="727.58069"
+         cy="-63.06776"
+         r="12"
+         id="circle102-9"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="711.58069"
+         x2="743.58069"
+         y1="-63.06776"
+         y2="-63.06776"
+         id="line104-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="727.58069"
+         x2="727.58069"
+         y1="-79.067764"
+         y2="-47.06776"
+         id="line106-25"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="817.58069"
+         cy="-63.06776"
+         r="12"
+         id="circle108-4"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="801.58069"
+         x2="833.58069"
+         y1="-63.06776"
+         y2="-63.06776"
+         id="line110-4"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="817.58069"
+         x2="817.58069"
+         y1="-79.067764"
+         y2="-47.06776"
+         id="line112-9"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="727.58069"
+         cy="176.93221"
+         r="12"
+         id="circle126-9"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="711.58069"
+         x2="743.58069"
+         y1="176.93221"
+         y2="176.93221"
+         id="line128-3"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="727.58069"
+         x2="727.58069"
+         y1="160.93221"
+         y2="192.93221"
+         id="line130-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="817.58069"
+         cy="176.93221"
+         r="12"
+         id="circle132-0"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="801.58069"
+         x2="833.58069"
+         y1="176.93221"
+         y2="176.93221"
+         id="line134-5"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="817.58069"
+         x2="817.58069"
+         y1="160.93221"
+         y2="192.93221"
+         id="line136-0"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <g
+         id="g2929">
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle90-8"
+           r="12"
+           cy="-207.06781"
+           cx="727.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line92-0"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="743.58069"
+           x1="711.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line94-4"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="727.58069"
+           x1="727.58069" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle96-0"
+           r="12"
+           cy="-207.06781"
+           cx="817.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line98-9"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="833.58069"
+           x1="801.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line100-1"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="817.58069"
+           x1="817.58069" />
+      </g>
+      <g
+         id="g2929-0"
+         transform="matrix(1,0,0,-1,-0.00595699,113.87504)">
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle90-8-8"
+           r="12"
+           cy="-207.06781"
+           cx="727.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line92-0-7"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="743.58069"
+           x1="711.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line94-4-6"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="727.58069"
+           x1="727.58069" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle96-0-3"
+           r="12"
+           cy="-207.06781"
+           cx="817.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line98-9-5"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="833.58069"
+           x1="801.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line100-1-08"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="817.58069"
+           x1="817.58069" />
+      </g>
+    </g>
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.64886"
+       x="83.074585"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279" />
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.66528"
+       x="-445.42557"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-1" />
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.64886"
+       x="616.82782"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-13" />
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.68353"
+       x="1152.6056"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-5" />
+  </g>
+  <g
+     transform="translate(0.75751955,872.47718)"
+     id="g1664-9">
+    <g
+       transform="translate(39.815953,51.872389)"
+       id="g3253-3">
+      <g
+         transform="translate(242.5,-30)"
+         id="g3324-1">
+        <polyline
+           style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5"
+           transform="translate(166,-277.48031)"
+           id="polyline70-9"
+           points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109" />
+        <polyline
+           style="fill:none;stroke:#0000ff;stroke-width:2.5"
+           transform="matrix(0.87947868,0,0,0.85617859,177.33816,-277.6082)"
+           id="polyline72-4"
+           points="0,0 180,0 180,618 0,618 0,0" />
+        <rect
+           style="fill:url(#pattern136-3);stroke:#ffffff;stroke-width:0.95418543"
+           id="rect74-7"
+           y="-135.63852"
+           x="243.98868"
+           width="8.0226479"
+           height="334.10703" />
+        <rect
+           style="fill:url(#pattern134-3);stroke:#ffffff;stroke-width:0.95449889"
+           id="rect76-8"
+           y="-135.68129"
+           x="259.9888"
+           width="8.0223942"
+           height="334.33716" />
+        <rect
+           style="fill:url(#pattern132-5);stroke:#ffffff;stroke-width:1"
+           id="rect78-4"
+           y="-182.48032"
+           x="186"
+           width="140"
+           height="14" />
+        <rect
+           style="fill:url(#pattern130-1);stroke:#ffffff;stroke-width:0.86678058"
+           id="rect80-5"
+           y="-152.48032"
+           x="276.41364"
+           width="49.586365"
+           height="14" />
+        <rect
+           style="fill:url(#pattern128-27);stroke:#ffffff;stroke-width:0.86849123"
+           id="rect82-0"
+           y="201.45393"
+           x="185.93425"
+           width="49.319008"
+           height="14.131509" />
+        <rect
+           style="fill:url(#pattern126-0);stroke:#ffffff;stroke-width:0.86221027"
+           id="rect84-3"
+           y="201.51968"
+           x="276.93518"
+           width="49.064831"
+           height="14" />
+        <rect
+           style="fill:url(#pattern124-9);stroke:#ffffff;stroke-width:0.86584002"
+           id="rect86-6"
+           y="-152.54739"
+           x="185.93292"
+           width="49.009159"
+           height="14.13416" />
+        <rect
+           style="fill:url(#pattern122-3);stroke:#ffffff;stroke-width:1"
+           id="rect88-1"
+           y="231.51968"
+           x="186"
+           width="140"
+           height="14" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle90-0"
+           r="12"
+           cy="-232.48032"
+           cx="211" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line92-6"
+           y2="-232.48032"
+           y1="-232.48032"
+           x2="227"
+           x1="195" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line94-3"
+           y2="-216.48032"
+           y1="-248.48032"
+           x2="211"
+           x1="211" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle96-2"
+           r="12"
+           cy="-232.48032"
+           cx="301" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line98-0"
+           y2="-232.48032"
+           y1="-232.48032"
+           x2="317"
+           x1="285" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line100-6"
+           y2="-216.48032"
+           y1="-248.48032"
+           x2="301"
+           x1="301" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle102-1"
+           r="12"
+           cy="-88.480316"
+           cx="211" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line104-5"
+           y2="-88.480316"
+           y1="-88.480316"
+           x2="227"
+           x1="195" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line106-5"
+           y2="-72.480316"
+           y1="-104.48032"
+           x2="211"
+           x1="211" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle108-47"
+           r="12"
+           cy="-88.480316"
+           cx="301" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line110-6"
+           y2="-88.480316"
+           y1="-88.480316"
+           x2="317"
+           x1="285" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line112-5"
+           y2="-72.480316"
+           y1="-104.48032"
+           x2="301"
+           x1="301" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle126-6"
+           r="12"
+           cy="151.51968"
+           cx="211" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line128-9"
+           y2="151.51968"
+           y1="151.51968"
+           x2="227"
+           x1="195" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line130-3"
+           y2="167.51968"
+           y1="135.51968"
+           x2="211"
+           x1="211" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle132-7"
+           r="12"
+           cy="151.51968"
+           cx="301" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line134-4"
+           y2="151.51968"
+           y1="151.51968"
+           x2="317"
+           x1="285" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line136-5"
+           y2="167.51968"
+           y1="135.51968"
+           x2="301"
+           x1="301" />
+      </g>
+    </g>
+    <g
+       transform="translate(267.71616,22.24292)"
+       id="g3277-2">
+      <polyline
+         transform="translate(-351.16463,-274.47743)"
+         style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5"
+         points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109"
+         id="polyline70-0-5" />
+      <polyline
+         points="0,0 180,0 180,618 0,618 0,0"
+         id="polyline72-9-4"
+         transform="matrix(0.83855948,0,0,0.70166122,-336.63697,-182.24151)"
+         style="fill:none;stroke:#0000ff;stroke-width:2.5" />
+      <rect
+         style="fill:url(#pattern226-6);stroke:#ffffff;stroke-width:0.95429993"
+         height="334.2478"
+         width="8.0211945"
+         x="-273.17523"
+         y="-132.65742"
+         id="rect74-3-7" />
+      <rect
+         style="fill:url(#pattern228-2);stroke:#ffffff;stroke-width:0.95430511"
+         height="334.21469"
+         width="8.0220757"
+         x="-257.17569"
+         y="-132.74005"
+         id="rect76-6-4" />
+      <rect
+         height="9.9613113"
+         width="140.15601"
+         x="-331.24265"
+         y="-175.36073"
+         id="rect78-0-4"
+         style="fill:url(#pattern246-6);stroke:#ffffff;stroke-width:0.84398764" />
+      <rect
+         height="11.977452"
+         width="49.784637"
+         x="-240.91188"
+         y="-149.51485"
+         id="rect80-6-3"
+         style="fill:url(#pattern254-7);stroke:#ffffff;stroke-width:0.80332983" />
+      <rect
+         height="11.084512"
+         width="49.354862"
+         x="-331.27991"
+         y="207.55333"
+         id="rect82-2-0"
+         style="fill:url(#pattern266-9);stroke:#ffffff;stroke-width:0.76946223" />
+      <rect
+         height="10.968478"
+         width="49.419376"
+         x="-240.52678"
+         y="207.61136"
+         id="rect84-6-7"
+         style="fill:url(#pattern264-2);stroke:#ffffff;stroke-width:0.76592427" />
+      <rect
+         height="12.097861"
+         width="49.468174"
+         x="-331.26227"
+         y="-149.57506"
+         id="rect86-1-8"
+         style="fill:url(#pattern252-0);stroke:#ffffff;stroke-width:0.80478758" />
+      <rect
+         height="10.968478"
+         width="140.1145"
+         x="-331.22189"
+         y="234.4653"
+         id="rect88-8-6"
+         style="fill:url(#pattern262-2);stroke:#ffffff;stroke-width:0.88549614" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-306.16464"
+         cy="-85.477432"
+         r="12"
+         id="circle102-7-8" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-322.16464"
+         x2="-290.16464"
+         y1="-85.477432"
+         y2="-85.477432"
+         id="line104-9-8" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-306.16464"
+         x2="-306.16464"
+         y1="-101.47743"
+         y2="-69.477432"
+         id="line106-2-4" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-216.16464"
+         cy="-85.477432"
+         r="12"
+         id="circle108-0-3" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-232.16464"
+         x2="-200.16464"
+         y1="-85.477432"
+         y2="-85.477432"
+         id="line110-2-1" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-216.16464"
+         x2="-216.16464"
+         y1="-101.47743"
+         y2="-69.477432"
+         id="line112-3-4" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-306.16464"
+         cy="154.52255"
+         r="12"
+         id="circle126-7-9" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-322.16464"
+         x2="-290.16464"
+         y1="154.52255"
+         y2="154.52255"
+         id="line128-5-2" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-306.16464"
+         x2="-306.16464"
+         y1="138.52255"
+         y2="170.52255"
+         id="line130-9-0" />
+      <circle
+         style="fill:none;stroke:#0000ff;stroke-width:1.5"
+         cx="-216.16464"
+         cy="154.52255"
+         r="12"
+         id="circle132-2-6" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-232.16464"
+         x2="-200.16464"
+         y1="154.52255"
+         y2="154.52255"
+         id="line134-2-8" />
+      <line
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+         x1="-216.16464"
+         x2="-216.16464"
+         y1="138.52255"
+         y2="170.52255"
+         id="line136-8-9" />
+    </g>
+    <g
+       transform="translate(299.37386,-92.75709)"
+       id="g3221-2">
+      <polyline
+         points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109"
+         id="polyline70-2-6"
+         transform="translate(682.58068,-252.06777)"
+         style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5" />
+      <polyline
+         points="0,0 180,0 180,618 0,618 0,0"
+         id="polyline72-2-6"
+         transform="matrix(0.87851148,0,0,1.0002248,694.00589,-252.10975)"
+         style="fill:none;stroke:#0000ff;stroke-width:2.5" />
+      <rect
+         height="334.18225"
+         width="8.0218344"
+         x="760.56976"
+         y="-110.11414"
+         id="rect74-0-4"
+         style="fill:url(#pattern136-2-3);stroke:#ffffff;stroke-width:0.95424443" />
+      <rect
+         height="333.78616"
+         width="8.0224905"
+         x="776.56946"
+         y="-110.21769"
+         id="rect76-5-9"
+         style="fill:url(#pattern134-1-9);stroke:#ffffff;stroke-width:0.95371771" />
+      <rect
+         height="14"
+         width="140"
+         x="702.58069"
+         y="-157.06778"
+         id="rect78-5-5"
+         style="fill:url(#pattern132-6-2);stroke:#ffffff;stroke-width:1" />
+      <rect
+         height="14"
+         width="49.224674"
+         x="793.35602"
+         y="-127.06778"
+         id="rect80-2-0"
+         style="fill:url(#pattern130-9-7);stroke:#ffffff;stroke-width:0.86361355" />
+      <rect
+         height="14.133629"
+         width="49.071129"
+         x="702.51385"
+         y="226.86539"
+         id="rect82-9-4"
+         style="fill:url(#pattern128-2-3);stroke:#ffffff;stroke-width:0.86637098" />
+      <rect
+         height="14"
+         width="49.273956"
+         x="793.30676"
+         y="226.93221"
+         id="rect84-0-8"
+         style="fill:url(#pattern126-4-6);stroke:#ffffff;stroke-width:0.86404574" />
+      <rect
+         height="14.132038"
+         width="49.257038"
+         x="702.51465"
+         y="-127.1338"
+         id="rect86-2-7"
+         style="fill:url(#pattern124-0-1);stroke:#ffffff;stroke-width:0.8679617" />
+      <rect
+         height="14"
+         width="140"
+         x="702.58069"
+         y="256.93222"
+         id="rect88-83-1"
+         style="fill:url(#pattern122-0-2);stroke:#ffffff;stroke-width:1" />
+      <circle
+         cx="727.58069"
+         cy="-63.06776"
+         r="12"
+         id="circle102-9-7"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="711.58069"
+         x2="743.58069"
+         y1="-63.06776"
+         y2="-63.06776"
+         id="line104-6-2"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="727.58069"
+         x2="727.58069"
+         y1="-79.067764"
+         y2="-47.06776"
+         id="line106-25-7"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="817.58069"
+         cy="-63.06776"
+         r="12"
+         id="circle108-4-2"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="801.58069"
+         x2="833.58069"
+         y1="-63.06776"
+         y2="-63.06776"
+         id="line110-4-2"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="817.58069"
+         x2="817.58069"
+         y1="-79.067764"
+         y2="-47.06776"
+         id="line112-9-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="727.58069"
+         cy="176.93221"
+         r="12"
+         id="circle126-9-1"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="711.58069"
+         x2="743.58069"
+         y1="176.93221"
+         y2="176.93221"
+         id="line128-3-0"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="727.58069"
+         x2="727.58069"
+         y1="160.93221"
+         y2="192.93221"
+         id="line130-6-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="817.58069"
+         cy="176.93221"
+         r="12"
+         id="circle132-0-1"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="801.58069"
+         x2="833.58069"
+         y1="176.93221"
+         y2="176.93221"
+         id="line134-5-5"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="817.58069"
+         x2="817.58069"
+         y1="160.93221"
+         y2="192.93221"
+         id="line136-0-9"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <g
+         id="g2929-4">
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle90-8-9"
+           r="12"
+           cy="-207.06781"
+           cx="727.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line92-0-0"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="743.58069"
+           x1="711.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line94-4-9"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="727.58069"
+           x1="727.58069" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle96-0-1"
+           r="12"
+           cy="-207.06781"
+           cx="817.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line98-9-7"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="833.58069"
+           x1="801.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line100-1-7"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="817.58069"
+           x1="817.58069" />
+      </g>
+      <g
+         id="g2929-0-1"
+         transform="matrix(1,0,0,-1,-0.00595699,113.87504)">
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle90-8-8-1"
+           r="12"
+           cy="-207.06781"
+           cx="727.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line92-0-7-5"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="743.58069"
+           x1="711.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line94-4-6-9"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="727.58069"
+           x1="727.58069" />
+        <circle
+           style="fill:none;stroke:#0000ff;stroke-width:1.5"
+           id="circle96-0-3-7"
+           r="12"
+           cy="-207.06781"
+           cx="817.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line98-9-5-7"
+           y2="-207.06781"
+           y1="-207.06781"
+           x2="833.58069"
+           x1="801.58069" />
+        <line
+           style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+           id="line100-1-08-6"
+           y2="-191.06781"
+           y1="-223.06778"
+           x2="817.58069"
+           x1="817.58069" />
+      </g>
+    </g>
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.64886"
+       x="83.074585"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-7" />
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.66528"
+       x="-445.42557"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-1-3" />
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.64886"
+       x="616.82782"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-13-6" />
+    <rect
+       ry="0"
+       style="stroke-width:2.5"
+       y="264.68353"
+       x="1152.6056"
+       height="9.8385401"
+       width="375.44705"
+       id="rect3279-5-5" />
+  </g>
+  <g
+     id="g3253-9"
+     transform="translate(39.441017,1804.5728)">
+    <g
+       id="g3324-7"
+       transform="translate(242.5,-30)">
+      <polyline
+         points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109"
+         id="polyline70-7"
+         transform="translate(166,-277.48031)"
+         style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5" />
+      <polyline
+         points="0,0 180,0 180,618 0,618 0,0"
+         id="polyline72-6"
+         transform="matrix(0.87947868,0,0,0.85617859,177.33816,-277.6082)"
+         style="fill:none;stroke:#0000ff;stroke-width:2.5" />
+      <rect
+         height="334.10703"
+         width="8.0226479"
+         x="243.98868"
+         y="-135.63852"
+         id="rect74-4"
+         style="fill:url(#pattern136-6);stroke:#ffffff;stroke-width:0.95418543" />
+      <rect
+         height="334.33716"
+         width="8.0223942"
+         x="259.9888"
+         y="-135.68129"
+         id="rect76-3"
+         style="fill:url(#pattern134-4);stroke:#ffffff;stroke-width:0.95449889" />
+      <rect
+         height="14"
+         width="140"
+         x="186"
+         y="-182.48032"
+         id="rect78-03"
+         style="fill:url(#pattern132-2);stroke:#ffffff;stroke-width:1" />
+      <rect
+         height="14"
+         width="49.586365"
+         x="276.41364"
+         y="-152.48032"
+         id="rect80-0"
+         style="fill:url(#pattern130-0);stroke:#ffffff;stroke-width:0.86678058" />
+      <rect
+         height="14.131509"
+         width="49.319008"
+         x="185.93425"
+         y="201.45393"
+         id="rect82-92"
+         style="fill:url(#pattern128-5);stroke:#ffffff;stroke-width:0.86849123" />
+      <rect
+         height="14"
+         width="49.064831"
+         x="276.93518"
+         y="201.51968"
+         id="rect84-5"
+         style="fill:url(#pattern126-6);stroke:#ffffff;stroke-width:0.86221027" />
+      <rect
+         height="14.13416"
+         width="49.009159"
+         x="185.93292"
+         y="-152.54739"
+         id="rect86-4"
+         style="fill:url(#pattern124-5);stroke:#ffffff;stroke-width:0.86584002" />
+      <rect
+         height="14"
+         width="140"
+         x="186"
+         y="231.51968"
+         id="rect88-0"
+         style="fill:url(#pattern122-1);stroke:#ffffff;stroke-width:1" />
+      <circle
+         cx="211"
+         cy="-232.48032"
+         r="12"
+         id="circle90-5"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="195"
+         x2="227"
+         y1="-232.48032"
+         y2="-232.48032"
+         id="line92-9"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="211"
+         x2="211"
+         y1="-248.48032"
+         y2="-216.48032"
+         id="line94-46"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="301"
+         cy="-232.48032"
+         r="12"
+         id="circle96-9"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="285"
+         x2="317"
+         y1="-232.48032"
+         y2="-232.48032"
+         id="line98-2"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="301"
+         x2="301"
+         y1="-248.48032"
+         y2="-216.48032"
+         id="line100-2"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="211"
+         cy="-88.480316"
+         r="12"
+         id="circle102-4"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="195"
+         x2="227"
+         y1="-88.480316"
+         y2="-88.480316"
+         id="line104-7"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="211"
+         x2="211"
+         y1="-104.48032"
+         y2="-72.480316"
+         id="line106-7"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="301"
+         cy="-88.480316"
+         r="12"
+         id="circle108-5"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="285"
+         x2="317"
+         y1="-88.480316"
+         y2="-88.480316"
+         id="line110-48"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="301"
+         x2="301"
+         y1="-104.48032"
+         y2="-72.480316"
+         id="line112-1"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="211"
+         cy="151.51968"
+         r="12"
+         id="circle126-2"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="195"
+         x2="227"
+         y1="151.51968"
+         y2="151.51968"
+         id="line128-8"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="211"
+         x2="211"
+         y1="135.51968"
+         y2="167.51968"
+         id="line130-93"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="301"
+         cy="151.51968"
+         r="12"
+         id="circle132-6"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="285"
+         x2="317"
+         y1="151.51968"
+         y2="151.51968"
+         id="line134-8"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="301"
+         x2="301"
+         y1="135.51968"
+         y2="167.51968"
+         id="line136-02"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    </g>
+  </g>
+  <g
+     id="g3277-1"
+     transform="translate(267.34122,1774.9433)">
+    <polyline
+       id="polyline70-0-0"
+       points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109"
+       style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5"
+       transform="translate(-351.16463,-274.47743)" />
+    <polyline
+       style="fill:none;stroke:#0000ff;stroke-width:2.5"
+       transform="matrix(0.83855948,0,0,0.70166122,-336.63697,-182.24151)"
+       id="polyline72-9-5"
+       points="0,0 180,0 180,618 0,618 0,0" />
+    <rect
+       id="rect74-3-1"
+       y="-132.65742"
+       x="-273.17523"
+       width="8.0211945"
+       height="334.2478"
+       style="fill:url(#pattern226-8);stroke:#ffffff;stroke-width:0.95429993" />
+    <rect
+       id="rect76-6-1"
+       y="-132.74005"
+       x="-257.17569"
+       width="8.0220757"
+       height="334.21469"
+       style="fill:url(#pattern228-1);stroke:#ffffff;stroke-width:0.95430511" />
+    <rect
+       style="fill:url(#pattern246-0);stroke:#ffffff;stroke-width:0.84398764"
+       id="rect78-0-0"
+       y="-175.36073"
+       x="-331.24265"
+       width="140.15601"
+       height="9.9613113" />
+    <rect
+       style="fill:url(#pattern254-4);stroke:#ffffff;stroke-width:0.80332983"
+       id="rect80-6-8"
+       y="-149.51485"
+       x="-240.91188"
+       width="49.784637"
+       height="11.977452" />
+    <rect
+       style="fill:url(#pattern266-3);stroke:#ffffff;stroke-width:0.76946223"
+       id="rect82-2-5"
+       y="207.55333"
+       x="-331.27991"
+       width="49.354862"
+       height="11.084512" />
+    <rect
+       style="fill:url(#pattern264-5);stroke:#ffffff;stroke-width:0.76592427"
+       id="rect84-6-0"
+       y="207.61136"
+       x="-240.52678"
+       width="49.419376"
+       height="10.968478" />
+    <rect
+       style="fill:url(#pattern252-2);stroke:#ffffff;stroke-width:0.80478758"
+       id="rect86-1-6"
+       y="-149.57506"
+       x="-331.26227"
+       width="49.468174"
+       height="12.097861" />
+    <rect
+       style="fill:url(#pattern262-8);stroke:#ffffff;stroke-width:0.88549614"
+       id="rect88-8-4"
+       y="234.4653"
+       x="-331.22189"
+       width="140.1145"
+       height="10.968478" />
+    <circle
+       id="circle102-7-6"
+       r="12"
+       cy="-85.477432"
+       cx="-306.16464"
+       style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+    <line
+       id="line104-9-2"
+       y2="-85.477432"
+       y1="-85.477432"
+       x2="-290.16464"
+       x1="-322.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <line
+       id="line106-2-5"
+       y2="-69.477432"
+       y1="-101.47743"
+       x2="-306.16464"
+       x1="-306.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <circle
+       id="circle108-0-8"
+       r="12"
+       cy="-85.477432"
+       cx="-216.16464"
+       style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+    <line
+       id="line110-2-6"
+       y2="-85.477432"
+       y1="-85.477432"
+       x2="-200.16464"
+       x1="-232.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <line
+       id="line112-3-2"
+       y2="-69.477432"
+       y1="-101.47743"
+       x2="-216.16464"
+       x1="-216.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <circle
+       id="circle126-7-8"
+       r="12"
+       cy="154.52255"
+       cx="-306.16464"
+       style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+    <line
+       id="line128-5-4"
+       y2="154.52255"
+       y1="154.52255"
+       x2="-290.16464"
+       x1="-322.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <line
+       id="line130-9-7"
+       y2="170.52255"
+       y1="138.52255"
+       x2="-306.16464"
+       x1="-306.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <circle
+       id="circle132-2-2"
+       r="12"
+       cy="154.52255"
+       cx="-216.16464"
+       style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+    <line
+       id="line134-2-4"
+       y2="154.52255"
+       y1="154.52255"
+       x2="-200.16464"
+       x1="-232.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    <line
+       id="line136-8-0"
+       y2="170.52255"
+       y1="138.52255"
+       x2="-216.16464"
+       x1="-216.16464"
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+  </g>
+  <g
+     id="g3221-6"
+     transform="translate(298.99892,1659.9433)">
+    <polyline
+       style="fill:#e0e0e0;stroke:#0000ff;stroke-width:2.5"
+       transform="translate(682.58068,-252.06777)"
+       id="polyline70-2-2"
+       points="20,109 160,109 160.0,125.0 94.0,125.0 94.0,493.0 160.0,493.0 160,509 20,509 20.0,493.0 86.0,493.0 86.0,125.0 20.0,125.0 20,109" />
+    <polyline
+       style="fill:none;stroke:#0000ff;stroke-width:2.5"
+       transform="matrix(0.87851148,0,0,1.0002248,694.00589,-252.10975)"
+       id="polyline72-2-9"
+       points="0,0 180,0 180,618 0,618 0,0" />
+    <rect
+       style="fill:url(#pattern136-2-4);stroke:#ffffff;stroke-width:0.95424443"
+       id="rect74-0-9"
+       y="-110.11414"
+       x="760.56976"
+       width="8.0218344"
+       height="334.18225" />
+    <rect
+       style="fill:url(#pattern134-1-5);stroke:#ffffff;stroke-width:0.95371771"
+       id="rect76-5-0"
+       y="-110.21769"
+       x="776.56946"
+       width="8.0224905"
+       height="333.78616" />
+    <rect
+       style="fill:url(#pattern132-6-5);stroke:#ffffff;stroke-width:1"
+       id="rect78-5-8"
+       y="-157.06778"
+       x="702.58069"
+       width="140"
+       height="14" />
+    <rect
+       style="fill:url(#pattern130-9-3);stroke:#ffffff;stroke-width:0.86361355"
+       id="rect80-2-1"
+       y="-127.06778"
+       x="793.35602"
+       width="49.224674"
+       height="14" />
+    <rect
+       style="fill:url(#pattern128-2-9);stroke:#ffffff;stroke-width:0.86637098"
+       id="rect82-9-3"
+       y="226.86539"
+       x="702.51385"
+       width="49.071129"
+       height="14.133629" />
+    <rect
+       style="fill:url(#pattern126-4-3);stroke:#ffffff;stroke-width:0.86404574"
+       id="rect84-0-1"
+       y="226.93221"
+       x="793.30676"
+       width="49.273956"
+       height="14" />
+    <rect
+       style="fill:url(#pattern124-0-8);stroke:#ffffff;stroke-width:0.8679617"
+       id="rect86-2-1"
+       y="-127.1338"
+       x="702.51465"
+       width="49.257038"
+       height="14.132038" />
+    <rect
+       style="fill:url(#pattern122-0-4);stroke:#ffffff;stroke-width:1"
+       id="rect88-83-0"
+       y="256.93222"
+       x="702.58069"
+       width="140"
+       height="14" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:1.5"
+       id="circle102-9-3"
+       r="12"
+       cy="-63.06776"
+       cx="727.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line104-6-4"
+       y2="-63.06776"
+       y1="-63.06776"
+       x2="743.58069"
+       x1="711.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line106-25-0"
+       y2="-47.06776"
+       y1="-79.067764"
+       x2="727.58069"
+       x1="727.58069" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:1.5"
+       id="circle108-4-3"
+       r="12"
+       cy="-63.06776"
+       cx="817.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line110-4-9"
+       y2="-63.06776"
+       y1="-63.06776"
+       x2="833.58069"
+       x1="801.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line112-9-1"
+       y2="-47.06776"
+       y1="-79.067764"
+       x2="817.58069"
+       x1="817.58069" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:1.5"
+       id="circle126-9-9"
+       r="12"
+       cy="176.93221"
+       cx="727.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line128-3-6"
+       y2="176.93221"
+       y1="176.93221"
+       x2="743.58069"
+       x1="711.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line130-6-9"
+       y2="192.93221"
+       y1="160.93221"
+       x2="727.58069"
+       x1="727.58069" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:1.5"
+       id="circle132-0-3"
+       r="12"
+       cy="176.93221"
+       cx="817.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line134-5-3"
+       y2="176.93221"
+       y1="176.93221"
+       x2="833.58069"
+       x1="801.58069" />
+    <line
+       style="stroke:#ff0000;stroke-width:1;stroke-linecap:square"
+       id="line136-0-8"
+       y2="192.93221"
+       y1="160.93221"
+       x2="817.58069"
+       x1="817.58069" />
+    <g
+       id="g2929-05">
+      <circle
+         cx="727.58069"
+         cy="-207.06781"
+         r="12"
+         id="circle90-8-6"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="711.58069"
+         x2="743.58069"
+         y1="-207.06781"
+         y2="-207.06781"
+         id="line92-0-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="727.58069"
+         x2="727.58069"
+         y1="-223.06778"
+         y2="-191.06781"
+         id="line94-4-4"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="817.58069"
+         cy="-207.06781"
+         r="12"
+         id="circle96-0-0"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="801.58069"
+         x2="833.58069"
+         y1="-207.06781"
+         y2="-207.06781"
+         id="line98-9-0"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="817.58069"
+         x2="817.58069"
+         y1="-223.06778"
+         y2="-191.06781"
+         id="line100-1-4"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,-0.00595699,113.87504)"
+       id="g2929-0-6">
+      <circle
+         cx="727.58069"
+         cy="-207.06781"
+         r="12"
+         id="circle90-8-8-2"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="711.58069"
+         x2="743.58069"
+         y1="-207.06781"
+         y2="-207.06781"
+         id="line92-0-7-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="727.58069"
+         x2="727.58069"
+         y1="-223.06778"
+         y2="-191.06781"
+         id="line94-4-6-7"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <circle
+         cx="817.58069"
+         cy="-207.06781"
+         r="12"
+         id="circle96-0-3-5"
+         style="fill:none;stroke:#0000ff;stroke-width:1.5" />
+      <line
+         x1="801.58069"
+         x2="833.58069"
+         y1="-207.06781"
+         y2="-207.06781"
+         id="line98-9-5-6"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+      <line
+         x1="817.58069"
+         x2="817.58069"
+         y1="-223.06778"
+         y2="-191.06781"
+         id="line100-1-08-9"
+         style="stroke:#ff0000;stroke-width:1;stroke-linecap:square" />
+    </g>
+  </g>
+  <rect
+     id="rect3279-8"
+     width="375.44705"
+     height="9.8385401"
+     x="82.699646"
+     y="2017.3492"
+     style="stroke-width:2.5"
+     ry="0" />
+  <rect
+     id="rect3279-1-7"
+     width="375.44705"
+     height="9.8385401"
+     x="-445.80051"
+     y="2017.3657"
+     style="stroke-width:2.5"
+     ry="0" />
+  <rect
+     id="rect3279-13-2"
+     width="375.44705"
+     height="9.8385401"
+     x="616.45288"
+     y="2017.3492"
+     style="stroke-width:2.5"
+     ry="0" />
+  <rect
+     id="rect3279-5-8"
+     width="375.44705"
+     height="9.8385401"
+     x="1152.2307"
+     y="2017.3839"
+     style="stroke-width:2.5"
+     ry="0" />
+  <circle
+     id="path2555"
+     style="fill:#000000;stroke:none"
+     cx="617.96027"
+     cy="273.38257"
+     r="1.5" />
+</svg>
